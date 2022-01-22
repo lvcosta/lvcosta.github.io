@@ -30,8 +30,8 @@ url: "https://jekyll-garden.github.io/" # the base hostname & protocol for your 
 
 heading: Bloco de notas # Change this 
 copyright:  
-  year: 2021
-  msg: lvcosta # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  year: 2022
+  msg: Leonardo V. da Costa # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
 #####################################################################
