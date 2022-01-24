@@ -1,12 +1,10 @@
-# Jekyll Garden v 0.3 (Stable) [this is a personal test]
+# Jekyll Garden v 0.3
 
-## Credits & Thanks
-- [rgvr](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll). This theme is a fork of Simply Jekyll and 90% code is by Raghu.
-- [Asim K T](https://github.com/asimkt), who coded the base HTML.
-- [Santosh Thottingal](https://github.com/santhoshtr), [Binny V A](https://github.com/binnyva), Puttalu who introduced me to Digital Garden, Zettelkasten, Org Mode etc. :)
-- Team [Obsidian](https://obsidian.md/) for making obsidian a [markdown](https://daringfireball.net/projects/markdown/) based product
-- Dark Mode Switch by [Derek Kedziora](https://github.com/derekkedziora) - [Source link](https://github.com/derekkedziora/jekyll-demo/blob/master/scripts/mode-switcher.js)
+## Créditos & agradecimentos
+- [hfactor](https://github.com/hfactor)
+- [rgvr](https://github.com/rgvr)
+- [Asim K T](https://github.com/asimkt)
 
 
-## License
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+## Licença
+Este tema está disponível como código aberto sob os termos da [MIT License](http://opensource.org/licenses/MIT).
