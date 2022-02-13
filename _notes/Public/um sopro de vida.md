@@ -3,10 +3,6 @@ title: um sopro de vida
 notetype: feed
 date: 22-01-2022
 ---
-
-mulheres produzem textos que podem ser chamados de ensaio, mas sob outros gêneros 
-*(diários, correspondência)*
-
 o que seria uma escrita feminina?
 lucia castello branco, 1991, coleção primeiros passos
 trajeto de pesquisa:
